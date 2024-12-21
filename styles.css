@@ -1,0 +1,18 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+  margin: 0px;
+}
+#accent {
+  color: #F033FF;
+  font-style: italic;
+}
+img {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
